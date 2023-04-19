@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {table/table {:mvn/version "0.5.0"}
+        fipp/fipp {:mvn/version "0.6.26"}
+        io.github.judepayne/stow {:local/root "../stow"}}}

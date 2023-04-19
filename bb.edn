@@ -1,0 +1,2 @@
+{:deps {pass/pass {:local/root "."}}
+ :bbin/bin {pass {:main-opts ["-f" "pass.clj"]}}}
